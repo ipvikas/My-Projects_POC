@@ -22,3 +22,11 @@ Description: Customer can share an image and if that item is available in our st
 
 Project #7: Sales Forecast of multiple Products across different stores
 Description: On different stores, products have their own sales cycle. Using Apache Spark and fbprophet, we have created multiple ML models to predict products sale
+
+Project #8: Computer Vision: 
+1. Using "Image classification", predict which class(es) (i.e. items) belong to it. Output is 'score',  'Label", and 'Box'.
+2. Using 'Visual question answering (VQA)", ask a question, relevant to the image and get the answer
+3. Using 'CLIP', get higher score to a class label, which is more relevant
+4. Using 'VisionEncoderDecoderModel ', get reasonable image captioning results
+5. YOLO
+
